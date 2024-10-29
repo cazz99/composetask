@@ -1,0 +1,36 @@
+# Maven target directory
+target/
+
+# Maven metadata files
+*.log
+*.jar
+*.war
+*.ear
+*.pom
+
+# Eclipse project files
+.settings/
+.classpath
+.project
+.apt_generated/
+.classpath
+.project
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other files to ignore
+*.class
+*.swp
+*.tmp
+*.bak
+
+# IDE specific directories
+.vscode/
+.idea/
