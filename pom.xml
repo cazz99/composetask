@@ -5,9 +5,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.arcada.devops</groupId>
-  <artifactId>dockercompose</artifactId>
+  <artifactId>composetask</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>dockercompose</name>
+  <name>composetask</name>
   <url>http://www.example.com</url>
 
   <properties>
